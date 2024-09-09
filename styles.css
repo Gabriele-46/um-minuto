@@ -1,0 +1,28 @@
+:root {
+    --primary-color: #30475E;
+    --secondary-color: #F5F7F8;
+    --font-size-base: 16px;
+  }
+  
+  body {
+    font-family: "Chakra Petch", sans-serif;
+    background-color: #DDDDDD;
+    /* ... outros estilos */
+  }
+  
+  .search-section {
+    /* Estilos para a seção de pesquisa */
+  }
+  
+  .search-input {
+    /* Estilos para o input de pesquisa */
+    width: calc(100% - 2rem); /* Calcular largura com base no container */
+  }
+  
+  .search-button {
+    /* Estilos para o botão de pesquisa */
+    background-color: var(--primary-color);
+    color: var(--secondary-color);
+  }
+  
+  /* ... outros estilos */
